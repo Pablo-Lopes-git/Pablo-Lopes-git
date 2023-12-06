@@ -5,7 +5,7 @@
 <p align="center">Tenho 21 anos, sou um jovem que cada vez mais esta se apaixonando pelo mundo da tecnologia. Atualmente sou Residente em TIC/Software - Serratec 2023.2.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Pablo-Lopes-git&theme=iceberg&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=Pablo-Lopes-git&show_icons=true&theme=tokyonight" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Pablo-Lopes-git&show_icons=true&theme=tokyonight&layout=compact&border_radius=5" />
 </div>
 
